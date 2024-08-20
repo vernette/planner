@@ -58,7 +58,7 @@ const App = () => {
 
   return (
     <main className="container">
-      <h1 className="text text-uppercase text-center my-4">Taski</h1>
+      <h1 className="text text-uppercase text-center my-4">Planner</h1>
       <div className="row">
         <div className="col-md-6 col-sm-10 mx-auto p-0">
           <div className="card p-3">
