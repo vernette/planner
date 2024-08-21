@@ -40,6 +40,12 @@ DB_HOST=db
 DB_PORT=5432
 ```
 
+Выполните миграции:
+
+```bash
+python backend/manage.py migrate
+```
+
 Запустите проект:
 
 ```bash
